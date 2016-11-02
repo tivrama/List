@@ -10,6 +10,9 @@
     "postinstall": "webpack -p",
     "test": "mocha --require test/helpers/setup.js"
   },
+  "engines": {
+    "node": "4.4.5"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
