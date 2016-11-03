@@ -5,7 +5,7 @@ Step by stem React with Webpack and ES6 set up
 - npm i -S react react-dom (npm install --save React and ReactDOM)
 - npm i -S lodash (npm install --save lodash library)
 - npm i -S express morgan path (npm install --save stuff for server)
-- npm i -D babel-core babel-loader babel-preset-es2015 babel-preset-react react-hot-loader webpack webpack-dev-server (npm install dev dependicies for bable and webpack)
+- npm i -D babel-core babel-loader babel-preset-es2015 babel-preset-react react-hot-loader webpack webpack-dev-server (npm install dev dependicies for bable and webpack.  INSTALL AS -S IF DEPLOYING WITH WEBPACK)
 - touch webpack.config.js (make webpack cinfig file)
 
 
