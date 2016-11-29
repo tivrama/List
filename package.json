@@ -7,7 +7,7 @@
     "lint": "standard",
     "start": "node server/server.js",
     "dev": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
-    "postinstall": "webpack -p",
+    "postinstall": "webpack",
     "test": "mocha --require test/helpers/setup.js"
   },
   "engines": {
